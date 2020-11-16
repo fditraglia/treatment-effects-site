@@ -5,11 +5,12 @@ theme = "accessible-minimalism"
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
 
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+# Comment these out since I don't really need a menu at the moment
+#[menu]
+#  [[menu.main]]
+#    name = "Home"
+#    url = "/"
+#    weight = 1
 # Comment these out since there won't be any blog posts
 #  [[menu.main]]
 #    name = "Posts"
