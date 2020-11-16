@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://treatment-effects.com/"
 languageCode = "en-us"
-title = "Accessible Minimalism"
+title = "A Course on Treatment Effects"
 theme = "accessible-minimalism"
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
