@@ -10,7 +10,8 @@ enableRobotsTXT = true
     name = "Home"
     url = "/"
     weight = 1
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 2
+# Comment these out since there won't be any blog posts
+#  [[menu.main]]
+#    name = "Posts"
+#    url = "/posts/"
+#    weight = 2
