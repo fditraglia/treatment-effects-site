@@ -16,7 +16,7 @@ enableRobotsTXT = true
     weight = 2
   [[menu.main]]
     name = "Lecture Notes"
-    url = "/lecture-notes.pdf"
+    url = "/treatment-effects.pdf"
     weight = 2
   [[menu.main]]
     name = "Videos"
