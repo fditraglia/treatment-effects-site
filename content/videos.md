@@ -1,4 +1,7 @@
 +++
 title = "Treatment Effects Videos"
 +++
-Hi mom!
+
+* The Potential Outcomes Framework
+* [Regression Adjustment](https://expl.ai/BJWTFKG)
+* Propensity Score Weighting
