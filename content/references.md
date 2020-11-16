@@ -7,12 +7,12 @@ title = "Treatment Effects References"
 * [Cameron & Trivedi (2005) - Microeconometrics: Methods and Applications](https://books.google.co.uk/books?id=Zf0gCwxC9ocC&lpg=PP1&dq=cameron%20and%20trivedi&pg=PP1#v=onepage&q=cameron%20and%20trivedi&f=false) - Chapter 25 covers Treatment Evaluation.
 
 ## Book-length Treatments 
-* [Angrist & Pischke (2009) - Mostly Harmless Econometrics: An Empiricist's Companion](https://books.google.co.uk/books?id=ztXL21Xd8v8C&lpg=PP1&dq=mostly%20harmless%20econometrics&pg=PP1#v=onepage&q=mostly%20harmless%20econometrics&f=false)
-* [Angrist & Pischke (2014) - Mastering 'Metrics: The Path from Cause to Effect](https://books.google.co.uk/books?id=dEh-BAAAQBAJ&lpg=PP1&dq=mostly%20harmless%20econometrics&pg=PP1#v=onepage&q=mostly%20harmless%20econometrics&f=false)
+* [Angrist & Pischke (2009) - Mostly Harmless Econometrics: An Empiricist's Companion](http://www.mostlyharmlesseconometrics.com/)
+* [Angrist & Pischke (2014) - Mastering 'Metrics: The Path from Cause to Effect](http://www.masteringmetrics.com/)
 * [Hernan & Robins (2020) - Causal Inference: What If](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2020/07/ci_hernanrobins_31july20.pdf) *Freely available online*
-* [Imbens & Rubin (2015) - Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction](https://books.google.co.uk/books?id=Bf1tBwAAQBAJ&lpg=PP1&dq=imbens%20rubin&pg=PP1#v=onepage&q=imbens%20rubin&f=false)
-* [Lee (2016) - Matching, Regression Discontinuity, Difference-in-differences & Beyond](https://books.google.co.uk/books?id=TEcnDAAAQBAJ&lpg=PP1&dq=matching%20regression%20discontinuity&pg=PP1#v=onepage&q=matching%20regression%20discontinuity&f=false)
-* [Morgan & Winship (2015) - Counterfactuals and Causal Inference: Methods and Principles for Social Research](https://books.google.co.uk/books?id=Q6YaBQAAQBAJ&lpg=PP1&dq=morgan%20winship&pg=PR5#v=onepage&q=morgan%20winship&f=false)
+* [Imbens & Rubin (2015) - Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
+* [Lee (2016) - Matching, Regression Discontinuity, Difference-in-differences & Beyond](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780190258733.001.0001/acprof-9780190258733)
+* [Morgan & Winship (2015) - Counterfactuals and Causal Inference: Methods and Principles for Social Research](https://www.cambridge.org/core/books/counterfactuals-and-causal-inference/5CC81E6DF63C5E5A8B88F79D45E1D1B7) 
 
 ## Journal Articles
 
