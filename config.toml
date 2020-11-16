@@ -5,14 +5,24 @@ theme = "accessible-minimalism"
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
 
-# Comment these out since I don't really need a menu at the moment
-#[menu]
-#  [[menu.main]]
-#    name = "Home"
-#    url = "/"
-#    weight = 1
-# Comment these out since there won't be any blog posts
-#  [[menu.main]]
-#    name = "Posts"
-#    url = "/posts/"
-#    weight = 2
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Syllabus"
+    url = "/syllabus"
+    weight = 2
+  [[menu.main]]
+    name = "Lecture Notes"
+    url = "/lecture-notes"
+    weight = 2
+  [[menu.main]]
+    name = "Videos"
+    url = "/videos"
+    weight = 2
+  [[menu.main]]
+    name = "References"
+    url = "/references"
+    weight = 2
