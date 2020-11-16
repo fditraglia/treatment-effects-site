@@ -6,7 +6,7 @@ title = "Treatment Effects References"
 * [Cameron & Trivedi (2005) - Microeconometrics: Methods and Applications](https://books.google.co.uk/books?id=Zf0gCwxC9ocC&lpg=PP1&dq=cameron%20and%20trivedi&pg=PP1#v=onepage&q=cameron%20and%20trivedi&f=false) - Chapter 25 covers Treatment Evaluation.
 * [Wooldridge (2010) - Econometric Analysis of Cross Section and Panel Data](https://books.google.co.uk/books?id=yov6AQAAQBAJ&lpg=PP1&dq=wooldridge%20panel%20econometrics&pg=PR3#v=onepage&q=wooldridge%20panel%20econometrics&f=false) - Parts of my lecture notes follow Chapter 21 "Estimating Average Treatment Effects" fairly closely.
 
-## Book-length Treatments 
+## Books on Causal Inference 
 * [Angrist & Pischke (2009) - Mostly Harmless Econometrics: An Empiricist's Companion](http://www.mostlyharmlesseconometrics.com/)
 * [Angrist & Pischke (2014) - Mastering 'Metrics: The Path from Cause to Effect](http://www.masteringmetrics.com/)
 * [Hernan & Robins (2020) - Causal Inference: What If](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2020/07/ci_hernanrobins_31july20.pdf) *Freely available online*
