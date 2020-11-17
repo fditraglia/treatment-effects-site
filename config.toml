@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "About"
     url = "/"
     weight = 1
   [[menu.main]]
