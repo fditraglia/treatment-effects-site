@@ -1,4 +1,4 @@
-baseURL = "http://treatment-effects.com/"
+baseURL = "https://treatment-effects.com/"
 languageCode = "en-us"
 title = "A Course on Treatment Effects"
 theme = "accessible-minimalism"
