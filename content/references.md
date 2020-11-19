@@ -78,6 +78,7 @@ Always in-progress; citation ≠ endorsement.
 
 ### Regression Discontinuity
 * Thistlewaite & Campbell (1960) - Regression Discontinuity Analysis: An Alternative to the Ex-post Facto Experiment
+* Hahn, Todd, & Van der Klaauw (2001) - Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design
 * Imbens & Lemieux (2008) - Regression Discontinuity Designs: A Guide to Practice
 * Lee & Lemieux (2010) - Regression Discontinuity Designs in Economics
 * Keele & Titiunik (2015) - Geographic Boundaries as Regression Discontinuities
