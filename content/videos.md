@@ -5,6 +5,7 @@ title = "Treatment Effects Videos"
 A series of short "pencasts" I made to accompany the lecture notes:
 
 * The Potential Outcomes Framework
+* [Conditional Independence](https://expl.ai/LXPVDDN)
 * [Regression Adjustment](https://expl.ai/BJWTFKG)
 * [Propensity Score Weighting](https://expl.ai/BASRRGX)
 
