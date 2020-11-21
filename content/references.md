@@ -23,14 +23,26 @@ title = "Treatment Effects References"
 Within topic, references are listed in chronological rather than alphabetic order.
 Always in-progress; citation ≠ endorsement.
 
-### Surveys / High-level Methodology / Polemics
-* [Rosenzweig & Wolpin (2000) - Natural "Natural Experiments" in Economics](https://www.aeaweb.org/articles?id=10.1257/jel.38.4.827)
+### Survey Articles
 * Imbens & Wooldridge (2009) - Recent Developments in the Econometrics of Program Evaluation
+* Abadie & Cattaneo (2018) - Econometric Methods for Program Evaluation
+
+### High-level Methodology / Polemics
+* [Rosenzweig & Wolpin (2000) - Natural "Natural Experiments" in Economics](https://www.aeaweb.org/articles?id=10.1257/jel.38.4.827)
 * [Angrist & Pisckhe (2010) - The Credibility Revolution in Empirical Economics (with discussion)](https://www.aeaweb.org/issues/126)
 * [Rust (2016) - Mostly Useless Econometrics? Assessing the Causal Effect of Econometric Theory](https://nowpublishers.com/article/Details/ACC-049)
 * [Deaton & Cartwright (2018) - Understanding and Misunderstanding Randomized Controlled Trials (with commentaries)](https://www.sciencedirect.com/journal/social-science-and-medicine/vol/210/)
 
 ### Randomized Controlled Trials
+* Chassang et al (2012) - Selective Trials: A Principal-Agent Approach to Randomized Controlled Experiments
+* Lin (2013) - Agnostic Notes on Regression Adjustments to Experimental Data: Reexamining Freedman's Critique
+* Athey & Imbens (2017) - The Econometrics of Randomized Experiments
+* Mutz, Pemantle & Pham (2019) - The Perils of Balance Testing in Experimental Design
+
+### Inference: Sampling-based vs. Design-based
+* Samii & Aronow (2012) - On Equivalencies Between Design-based and Regression-based Variance Estimators for Randomized Experiments
+* Young (2019) - Channeling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results
+* Abadie et al (2020) - Sampling-based versus Design-based Uncertainty in Regression Analysis
 
 ### Conditional Independence
 * Dawid (1979) - Conditional Independence in Statistical Theory
