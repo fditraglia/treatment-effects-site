@@ -6,6 +6,7 @@ A series of short "pencasts" I made to accompany the lecture notes:
 
 * [The Potential Outcomes Framework](https://expl.ai/QHUAVRV)
 * [Conditional Independence](https://expl.ai/LXPVDDN)
+* [Selection Bias](https://expl.ai/DWVNRZU)
 * [Regression Adjustment](https://expl.ai/BJWTFKG)
 * [Propensity Score Weighting](https://expl.ai/BASRRGX)
 
