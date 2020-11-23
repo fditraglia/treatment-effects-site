@@ -5,7 +5,7 @@ Class meetings this term will take place over Zoom. Login details will be posted
 1. November 24th (Tuesday): 12-1:30pm
     * Read in advance: Lecture notes chapters 1-2
     * Watch in advance: [The Potential Outcomes Framework](https://expl.ai/QHUAVRV), [Conditional Independence](https://expl.ai/LXPVDDN), [Selection Bias](https://expl.ai/DWVNRZU)
-    * Discussion: Analyzing data from randomized controlled experiments. Please skim [Athey & Imbens (2017)](https://www.sciencedirect.com/science/article/pii/S2214658X16300174) and [Mutz, Pemantle & Pham (2019)](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2017.1322143) in advance.
+    * Discussion: Analyzing data from randomized controlled experiments. Please skim [Athey & Imbens (2017)](https://www.sciencedirect.com/science/article/pii/S2214658X16300174) Sections 1-8 and 10, along with [Mutz, Pemantle & Pham (2019)](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2017.1322143) in advance.
 2. November 27th (Friday): 1:30-3pm
     * Read in advance: Lecture notes Chapter 3
     * Watch in advance: [Regression Adjustment](https://expl.ai/BJWTFKG), [Propensity Score Weighting](https://expl.ai/BASRRGX)
