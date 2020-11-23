@@ -59,10 +59,12 @@ Always in-progress; citation ≠ endorsement.
 * Ichimura & Taber (2001) - Propensity Score Matching with Instrumental Variables
 * Dehejia & Wahba (2002) - Propensity Score Matching Methods for Nonexperimental Causal Studies
 * Smith & Todd (2005) - Does Matching Overcome LaLonde's Critique of Nonexperimental Estimators?
+* [Todd (2010) - Matching Estimators (from *Microeconometrics* - Palgrave Macmillan)](https://pdfs.semanticscholar.org/f21e/b74cebd5fd3cd8275b522baceba3ae4cfd52.pdf)
 * Stuart (2010) - Matching Methods for Causal Inference: A Review and a Look Forward
 * Iacus, King & Porro (2011) - Multivariate Matching Methods that are Monotonic Imbalance Bounding
 * Imai & Ratkovic (2014) - Covariate Balancing Propensity Score
 * Iacus, King & Porro (2012) - Causal Inference without Balance Checking: Coarsened Exact Matching
+* [Li et al. (2018) - Balancing Covariates via Propensity Score Weighting](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260466)
 * King & Nielsen (2019) - Why Propensity Scores Should Not be Used for Matching 
 
 ### Instrumental Variables / LATE - General
