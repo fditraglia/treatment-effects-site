@@ -35,12 +35,19 @@ Always in-progress; citation ≠ endorsement.
 
 ### Randomized Controlled Trials
 * Chassang et al (2012) - Selective Trials: A Principal-Agent Approach to Randomized Controlled Experiments
+* Morgan & Rubin (2012) - Rerandomization to Improve Covariate Balance in Experiments
 * Lin (2013) - Agnostic Notes on Regression Adjustments to Experimental Data: Reexamining Freedman's Critique
+* Bertsimas, Johnson & Kallus (2015) - The Power of Optimization Over Randomization in Designing Experiments Involving Small Samples
+* Kasy (2016) - Why Experimenters Might Not Always Want to Randomize and What They Could Do Instead
 * Athey & Imbens (2017) - The Econometrics of Randomized Experiments
+* Banjeree, Chassang & Snowberg (2017) - Decision Theoretic Approaches to Experiment Design and External Validity
+* Kallus (2017) - Optimal a Priori Balance in the Design of Controlled Experiments
 * Mutz, Pemantle & Pham (2019) - The Perils of Balance Testing in Experimental Design
+* Banjeree et al (2020) - A Theory of Experimenters: Robustness, Randomization, and Balance
 
 ### Inference: Sampling-based vs. Design-based
 * Samii & Aronow (2012) - On Equivalencies Between Design-based and Regression-based Variance Estimators for Randomized Experiments
+* Li & Ding (2017) - General Forms of Finite Population Central Limit Theorems with Applications to Causal Inference
 * Young (2019) - Channeling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results
 * Abadie et al (2020) - Sampling-based versus Design-based Uncertainty in Regression Analysis
 
