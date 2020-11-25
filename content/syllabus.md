@@ -13,5 +13,5 @@ Class meetings this term will take place over Zoom. Login details will be posted
 3. December 1st (Tuesday): 12-1:30pm
     * Read in advance: Lecture notes chapter 4
     * Watch in advance: TBC
-    * Discussion: Treatment effect heterogeneity and the testability of LATE assumptions. Please read [Angrist (2004)](https://academic.oup.com/ej/article/114/494/C52/5086004) and [Huber & Mellace (2015)](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00450) in advance.
+    * Discussion: Noncompliance in RCTs and Treatment effect heterogeneity. Please read [Athey & Imbens 2017) Section 9](https://www.sciencedirect.com/science/article/pii/S2214658X16300174) and [Angrist (2004)](https://academic.oup.com/ej/article/114/494/C52/5086004), in advance.
 4. December 4th (Friday): 1:30-3pm
