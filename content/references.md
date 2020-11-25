@@ -66,6 +66,7 @@ Always in-progress; citation ≠ endorsement.
 * Ichimura & Taber (2001) - Propensity Score Matching with Instrumental Variables
 * Dehejia & Wahba (2002) - Propensity Score Matching Methods for Nonexperimental Causal Studies
 * Smith & Todd (2005) - Does Matching Overcome LaLonde's Critique of Nonexperimental Estimators?
+* Ho et al (2007) - Matching as Nonparametric Preprocessing for Reducing Model Dependence in Parametric Causal Inference
 * [Todd (2010) - Matching Estimators (from *Microeconometrics* - Palgrave Macmillan)](https://pdfs.semanticscholar.org/f21e/b74cebd5fd3cd8275b522baceba3ae4cfd52.pdf)
 * Stuart (2010) - Matching Methods for Causal Inference: A Review and a Look Forward
 * Iacus, King & Porro (2011) - Multivariate Matching Methods that are Monotonic Imbalance Bounding
@@ -90,6 +91,7 @@ Always in-progress; citation ≠ endorsement.
 
 ### Marginal Treatment Effects / Beyond LATE
 * Heckman & Vytlacil (2001) - Policy-Relevant Treatment Effects
+* Angrist (2004) - Treatment Effect Heterogeneity in Theory and Practice
 * Heckman & Vytlacil (2005) - Structural Equations, Treatment Effects, and Econometric Policy Evaluation
 * Angrist & Fernandez-Val (2010) - ExtrapoLATE-ing: External Validity and Over-identification in the LATE Framework
 * Carneiro, Heckman & Vytlacil (2011) - Estimating Marginal Returns to Education
@@ -102,6 +104,12 @@ Always in-progress; citation ≠ endorsement.
 * Hahn, Todd, & Van der Klaauw (2001) - Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design
 * Imbens & Lemieux (2008) - Regression Discontinuity Designs: A Guide to Practice
 * Lee & Lemieux (2010) - Regression Discontinuity Designs in Economics
+* Dong & Lewbel (2013) - Identifying the Effect of Changing the Policy Threshold in Regression Discontinuity Models
+* Calonico, Cattaneo & Titiunik (2014) - Robust Nonparametric Confidence Intervals for Regression Discontinuity Designs
 * Keele & Titiunik (2015) - Geographic Boundaries as Regression Discontinuities
+* Arai et al (2019) - Testing Identifying Assumptions in Fuzzy Regression Discontinuity Designs
+* Bertanha & Imbens (2019) - External Validity in Fuzzy Regression Discontinuity Designs
+* Gelman & Imbens (2019) - Why High-Order Polynomials Should Not Be Used in Regression Discontinuity Designs
+
 
 
