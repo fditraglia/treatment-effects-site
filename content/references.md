@@ -57,7 +57,13 @@ Always in-progress; citation ≠ endorsement.
 * Angrist (1997) - Conditional Independence in Sample Selection Models
 * Contantinou & Dawid (2017) - Extended Conditional Independence and Applications in Causal Inference
 
-### Selection on Observables - Miscellaneous
+### Selection on Observables - Choosing Covariates / Model Averaging
+* De Luna et al (2011) - Covariate Selection for the Nonparametric Estimation of an Average Treatment Effect
+* Lu (2015) - A Covariate Selection Criterion for Estimation of Treatment Effects
+* Kitagawa & Muris (2016) - Model Averaging in Semiparametric Estimation of Treatment Effects
+* Cefalu et al (2016) - Model Averaged Double Robust Estimation
+* Luo et al (2017) - On Estimation Regression-based Causal Effects Using Sufficient Dimension Reduction
+* Koch et al (2018) - Covariate Selection with Group LASSO and Doubly Robust Estimation of Causal Effects
 
 
 ### Matching / Propensity Score Methods 
@@ -107,6 +113,7 @@ Always in-progress; citation ≠ endorsement.
 * Dong & Lewbel (2013) - Identifying the Effect of Changing the Policy Threshold in Regression Discontinuity Models
 * Calonico, Cattaneo & Titiunik (2014) - Robust Nonparametric Confidence Intervals for Regression Discontinuity Designs
 * Keele & Titiunik (2015) - Geographic Boundaries as Regression Discontinuities
+* Choi & Lee (2017) - Regression Discontinuity: Review with Extensions
 * Arai et al (2019) - Testing Identifying Assumptions in Fuzzy Regression Discontinuity Designs
 * Bertanha & Imbens (2019) - External Validity in Fuzzy Regression Discontinuity Designs
 * Gelman & Imbens (2019) - Why High-Order Polynomials Should Not Be Used in Regression Discontinuity Designs
