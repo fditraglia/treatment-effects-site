@@ -18,5 +18,5 @@ Class meetings this term will take place over Zoom. Login details will be posted
     * Read in advance: Lecture notes chapter 5
     * Watch in advance: TBC
     * Discussion: Regression discontinuity designs. Please read [Lee & Lemieux (2010)](https://www.aeaweb.org/articles?id=10.1257/jel.48.2.281) in advance. 
-5. May 24th, 2021 (Monday): 2-3:30pm **Revision Lecture - Manor Road Building**
+5. May 24th, 2021 (Monday): 2-3:30pm **Revision Lecture** - <s>Manor Road Building</s> *Unfortunately, I have just learned that I will not be permitted to give this lecture in-person, so it will have to take place on zoom. Details will appear on canvas soon.*
     * [problems](/ps.pdf), [solutions](/ps-soln.pdf)
