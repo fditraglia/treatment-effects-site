@@ -1,7 +1,26 @@
 +++
-title = "Treatment Effects Syllabus: MT 2020"
+title = "Treatment Effects: Beyond the Basics (Summer 2022)"
 +++
-Class meetings this term will take place over Zoom. Login details will be posted on the *Advanced Econometrics 1* canvas page on Monday, November 23rd. For each class meeting, I list the relevant chapters of the [lecture notes](/treatment-effects.pdf) along with papers for discussion. You should be able to access all of the assigned papers using your Oxford login. Let me know if you encounter any problems. 
+
+# Pre-reading
+- Chapters 1-6 of my [lecture notes](https://www.treatment-effects.com/treatment-effects.pdf) 
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/). See also [my notes](https://qyocwwdd4c.joplinusercontent.com/shares/OsJNRF8AGMOE9NGxpt7YK1) on this book.
+- Lessons 1-4 of [Empirical Research Methods](https://empirical-methods.com/)
+
+# Lectures
+1. Partial Identification
+2. Spillovers
+3. Beyond LATE: Part I
+4. Beyond LATE: Part II
+5. Causal Mediation
+
+Further details TBA
+
+# Practical Classes
+Details TBA
+
+
+<!--Class meetings this term will take place over Zoom. Login details will be posted on the *Advanced Econometrics 1* canvas page on Monday, November 23rd. For each class meeting, I list the relevant chapters of the [lecture notes](/treatment-effects.pdf) along with papers for discussion. You should be able to access all of the assigned papers using your Oxford login. Let me know if you encounter any problems. 
 1. November 24th (Tuesday): 12-1:30pm
     * Read in advance: Lecture notes chapters 1-2
     * Watch in advance: [The Potential Outcomes Framework](https://expl.ai/QHUAVRV), [Conditional Independence](https://expl.ai/LXPVDDN), [Selection Bias](https://expl.ai/DWVNRZU)
@@ -21,3 +40,4 @@ Class meetings this term will take place over Zoom. Login details will be posted
 5. May 24th, 2021 (Monday): 2-3:30pm 
     * **Revision Lecture** ~~Manor Road Building~~ *Unfortunately, I have just learned that I will not be permitted to give this lecture in-person, so it will have to take place on zoom. Details will appear on canvas soon.*
     * [problems](/ps.pdf), [solutions](/ps-soln.pdf)
+-->
