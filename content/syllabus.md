@@ -1,13 +1,17 @@
 +++
-title = "Treatment Effects: Beyond the Basics (Summer 2022)"
+title = "Treatment Effects: Beyond the Basics"
 +++
 
-# Pre-reading
+## Overview
+This is the website for my [summer course](https://www.economics.ox.ac.uk/econometrics-pathway) which will take place at Oxford from 12-16 September 2022. If you're interested in attending, you can [apply here](https://www.economics.ox.ac.uk/econometrics-pathway). 
+
+## Pre-reading
+This course assumes basic knowledge of causal inference along with basic familiarity with the R programming language. If you need to brush up on either of these pre-requisites, you may find the following resources helpful.
 - Chapters 1-6 of my [lecture notes](https://www.treatment-effects.com/treatment-effects.pdf) 
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/). See also [my notes](https://qyocwwdd4c.joplinusercontent.com/shares/OsJNRF8AGMOE9NGxpt7YK1) on this book.
 - Lessons 1-4 of [Empirical Research Methods](https://empirical-methods.com/)
 
-# Lectures
+## Lectures
 1. Partial Identification
 2. Spillovers
 3. Beyond LATE: Part I
@@ -16,7 +20,7 @@ title = "Treatment Effects: Beyond the Basics (Summer 2022)"
 
 Further details TBA
 
-# Practical Classes
+## Practical Classes
 Details TBA
 
 
