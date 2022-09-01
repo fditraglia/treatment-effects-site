@@ -5,6 +5,7 @@ title = "Treatment Effects: Beyond the Basics"
 ## Overview
 This is the website for my [summer course](https://www.economics.ox.ac.uk/econometrics-pathway) which will take place at Oxford from 12-16 September 2022. If you're interested in attending, you can [apply here](https://www.economics.ox.ac.uk/econometrics-pathway). 
 
+
 ## Pre-reading
 This course assumes basic knowledge of causal inference along with basic familiarity with the R programming language. If you need to brush up on either of these pre-requisites, you may find the following resources helpful.
 - Chapters 1-6 of my [lecture notes](https://www.treatment-effects.com/treatment-effects.pdf) 
@@ -12,16 +13,17 @@ This course assumes basic knowledge of causal inference along with basic familia
 - Lessons 1-4 of [Empirical Research Methods](https://empirical-methods.com/)
 
 ## Lectures
+Lectures will take place in the Skills Lab of the Manor Road Building from 9am-11am on September 12th-16th. Because two hours is a long time, we'll take a twenty minute break halfway through each lecture.
 1. Partial Identification
-2. Spillovers
-3. Beyond LATE: Part I
-4. Beyond LATE: Part II
-5. Causal Mediation
+2. Testing the LATE Assumptions 
+3. Marginal Treatment Effects
+4. Spillovers 
+5. Additional Topics TBA (Time Permitting) 
 
-Further details TBA
+Further details will follow soon.
 
 ## Practical Classes
-Details TBA
+Because most students who are taking this course are also registered for Max Kasy's afternoon session on [Machine Learning](https://maxkasy.github.io/home/files/teaching/ML_Oxford_summerschool_2022/Syllabus_ML_Oxford_Summerschool_2022.pdf) we will hold a *joint practical session* for the two courses each day from 4:30pm-6pm. You are welcome to attend these joint sessions regardless of whether you are in fact registered for the Machine Learning course. A small number of students are registered for Treatment Effects in the morning session and something *other than* Machine Learning in the afternoon session. To prevent scheduling clashes for these students, we will hold alternative practical class sesssions covering *only* the Treatment Effects material from 11:30am-1pm on Monday, Tuesday, and Thursday. 
 
 
 <!--Class meetings this term will take place over Zoom. Login details will be posted on the *Advanced Econometrics 1* canvas page on Monday, November 23rd. For each class meeting, I list the relevant chapters of the [lecture notes](/treatment-effects.pdf) along with papers for discussion. You should be able to access all of the assigned papers using your Oxford login. Let me know if you encounter any problems. 
