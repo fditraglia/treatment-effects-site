@@ -14,20 +14,23 @@ This course assumes basic knowledge of causal inference along with basic familia
 
 ## Lectures
 Lectures will take place in the Skills Lab of the Manor Road Building from 9am-11am on September 12th-16th. Because two hours is a long time, we'll take a twenty minute break halfway through each lecture.
-1. Partial Identification: Chapter 3 of my [lecture notes](https://www.treatment-effects.com/treatment-effects.pdf).
-  - [Manski (2003) - Partial Identification of Probability Distributions](https://link.springer.com/book/10.1007/b97478) 
-  - [Fan & Park (2010; ET) - Sharp Bounds on the Distribution of Treatment Effects](https://scholar.archive.org/work/yadgi2yy4neirlnrba5mjbquie/access/wayback/http://www.unc.edu/depts/econ/papers/DistTreatFanParkET2.pdf)
+1. Partial Identification: Chapter 3 of my [lecture notes](/treatment-effects.pdf).
+  - [Manski (2003)](https://link.springer.com/book/10.1007/b97478) 
+  - [Fan & Park (2010)](/Fan-Park-2010.pdf)
 2. Testing the LATE Assumptions 
-  - [Huber & Mellace (2015; ReStat) - Testing Instrument Validity for LATE](https://scholar.archive.org/work/yadgi2yy4neirlnrba5mjbquie/access/wayback/http://www.unc.edu/depts/econ/papers/DistTreatFanParkET2.pdf)
-  - [Kitagawa (2015; Ecma) - A Test for Instrument Validity](https://raw.githubusercontent.com/Mixtape-Sessions/Instrumental-Variables/main/Readings/Lecture3/Kitagawa_2015.pdf)
-  - [Mourifié & Wan (2017; ReStat) - Testing Local Average Treatment Effect Assumptions](https://www.economics.utoronto.ca/public/workingPapers/tecipa-514.pdf)
+  - [Huber & Mellace (2015)](/Huber-Mellace-2015.pdf)
+  - [Kitagawa (2015)](/Kitagawa-2015.pdf)
+  - [Mourifié & Wan (2017)](/Mourifie-Wan-2017.pdf)
 3. Marginal Treatment Effects
-  - [Cornelissen et al. (2016; Labour Economics) - From LATE to MTE](https://pure.york.ac.uk/portal/services/downloadRegister/49272936/LATE_to_MTE_paper_10June_with_tables.pdf)
-  - [Mogstad & Torgovitsky (2018) - Identification and Extrapolation of Causal Effects](https://www.annualreviews.org/doi/10.1146/annurev-economics-101617-041813)
-  - [Cornelissen et al. (2018; JPE) - Who benefits from universal child care?](http://www.christiandustmann.com/content/4-research/6-who-benefits-from-universal-childcare-estimating-marginal-returns-to-early-childcare-attendance/699979.pdf)
+  - [Heckman, Tobias & Vytlacil (2001)](/Heckman-Tobias-Vytlacil-2001.pdf)
+  - [Angrist (2004)](/Angrist-2004.pdf)
+  - [Cornelissen et al. (2016)](/Cornelissen-et-al-2016.pdf)
+  - [Mogstad & Torgovitsky (2018)](/Mogstad-Torgovitsky-2018.pdf)
+  - [Cornelissen et al. (2018)](/Cornelissen-et-al-2018.pdf)
 4. Spillovers 
-  - [Hudgens & Halloran (2008; JASA) - Towards Causal Inference with Interference](https://scholar.archive.org/work/3cm6qflagjg4lgns6z6xepueze/access/wayback/https://cdr.lib.unc.edu/downloads/5m60r0829)
-  - [DiTraglia et al. (2022; WP) - Identifying Causal Effects in Experiments with Spillovers & Non-compliance](https://ditraglia.com/pdf/spillovers-paper.pdf) 
+  - [Hudgens & Halloran (2008)](/Hudgens-Halloran-2008.pdf)
+  - [Manski (2013)](/Manski-2013.pdf)
+  - [DiTraglia et al. (2022)](https://ditraglia.com/pdf/spillovers-paper.pdf) 
 5. Additional Topics TBA (Time Permitting) 
 
 Further details will follow soon.
