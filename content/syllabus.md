@@ -8,7 +8,8 @@ This is the website for my [summer course](https://www.economics.ox.ac.uk/econom
 
 ## Pre-reading
 This course assumes basic knowledge of causal inference along with basic familiarity with the R programming language. If you need to brush up on either of these pre-requisites, you may find the following resources helpful.
-- Chapters 1-2 and 4-7 of my [lecture notes](/treatment-effects.pdf) 
+- My short [video lectures](/videos) on treatment effects basics.
+- Chapters 1-2, 4-5, and 7-8 of my [lecture notes](/treatment-effects.pdf) 
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/). See also [my notes](https://qyocwwdd4c.joplinusercontent.com/shares/OsJNRF8AGMOE9NGxpt7YK1) on this book.
 - Lessons 1-4 of [Empirical Research Methods](https://empirical-methods.com/)
 
@@ -17,7 +18,7 @@ Lectures will take place in the Skills Lab of the Manor Road Building from 9am-1
 1. Partial Identification: Chapter 3 of my [lecture notes](/treatment-effects.pdf).
   - [Manski (2003)](https://link.springer.com/book/10.1007/b97478) 
   - [Fan & Park (2010)](/Fan-Park-2010.pdf)
-2. Testing the LATE Assumptions 
+2. Testing the LATE Assumptions: Chapters 5 and 6 of my [lecture notes](/treatment-effects.pdf) 
   - [Huber & Mellace (2015)](/Huber-Mellace-2015.pdf)
   - [Kitagawa (2015)](/Kitagawa-2015.pdf)
   - [Mourifié & Wan (2017)](/Mourifie-Wan-2017.pdf)
