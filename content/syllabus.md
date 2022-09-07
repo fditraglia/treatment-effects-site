@@ -37,7 +37,13 @@ Lectures will take place in the Skills Lab of the Manor Road Building from 9am-1
 Further details will follow soon.
 
 ## Practical Classes
-Because most students who are taking this course are also registered for Max Kasy's afternoon session on [Machine Learning](https://maxkasy.github.io/home/files/teaching/ML_Oxford_summerschool_2022/Syllabus_ML_Oxford_Summerschool_2022.pdf) we will hold a *joint practical session* for the two courses from 4:30pm-6pm each day. You are welcome to attend these joint sessions regardless of whether you are in fact registered for the Machine Learning course. A small number of students are registered for Treatment Effects in the morning session and something *other than* Machine Learning in the afternoon session. To prevent scheduling clashes for these students, we will hold alternative practical class sesssions covering *only* the Treatment Effects material from 11:30am-1pm on Monday, Tuesday, and Thursday. 
+Because most students who are taking this course are also registered for Max Kasy's afternoon session on [Machine Learning](https://maxkasy.github.io/home/ML_Oxford_summerschool_2022/) we will hold a *joint practical session* for the two courses from 4:30pm-6pm each day. You are welcome to attend these joint sessions regardless of whether you are in fact registered for the Machine Learning course. A small number of students are registered for Treatment Effects in the morning session and something *other than* Machine Learning in the afternoon session. To prevent scheduling clashes for these students, we will hold alternative practical class sesssions covering *only* the Treatment Effects material from 11:30am-1pm on Monday, Tuesday, and Thursday. 
+
+1. Monday: [R Refresher Session](/lab-tidy-simulation.pdf)
+2. Tuesday: [Treatment Effects Session 1](/lab-testing-late.pdf)
+3. Wednesday: [Machine Learning Session 1](https://maxkasy.github.io/home/files/teaching/ML_Oxford_summerschool_2022/foundations_ml_ps3.pdf)
+4. Thursday: [Treatment Effects Session 2]()
+5. Friday: [Machine Learning Session 2](https://maxkasy.github.io/home/files/teaching/ML_Oxford_summerschool_2022/foundations_ml_ps5.pdf)
 
 
 <!--Class meetings this term will take place over Zoom. Login details will be posted on the *Advanced Econometrics 1* canvas page on Monday, November 23rd. For each class meeting, I list the relevant chapters of the [lecture notes](/treatment-effects.pdf) along with papers for discussion. You should be able to access all of the assigned papers using your Oxford login. Let me know if you encounter any problems. 
