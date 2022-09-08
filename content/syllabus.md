@@ -42,7 +42,7 @@ Because most students who are taking this course are also registered for Max Kas
 1. Monday: [R Refresher Session](/lab-tidy-simulation.pdf)
 2. Tuesday: [Treatment Effects Session 1](/lab-testing-late.pdf)
 3. Wednesday: [Machine Learning Session 1](https://maxkasy.github.io/home/files/teaching/ML_Oxford_summerschool_2022/foundations_ml_ps3.pdf)
-4. Thursday: [Treatment Effects Session 2]()
+4. Thursday: [Treatment Effects Session 2](/lab-normal-MTE.pdf)
 5. Friday: [Machine Learning Session 2](https://maxkasy.github.io/home/files/teaching/ML_Oxford_summerschool_2022/foundations_ml_ps5.pdf)
 
 
