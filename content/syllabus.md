@@ -18,10 +18,12 @@ Lectures will take place in the Skills Lab of the Manor Road Building from 9am-1
 1. Partial Identification: Chapter 3 of my [lecture notes](/treatment-effects.pdf).
   - [Manski (2003)](https://link.springer.com/book/10.1007/b97478) 
   - [Fan & Park (2010)](/Fan-Park-2010.pdf)
-2. Testing the LATE Assumptions: Chapters 5 and 6 of my [lecture notes](/treatment-effects.pdf) 
-  - [Huber & Mellace (2015)](/Huber-Mellace-2015.pdf)
-  - [Kitagawa (2015)](/Kitagawa-2015.pdf)
-  - [Mourifié & Wan (2017)](/Mourifie-Wan-2017.pdf)
+2. Testing the LATE Assumptions
+  - [slides](/testing-LATE-slides.pdf), Chapters 5 and 6 of the [lecture notes](/treatment-effects.pdf) 
+  - Further reading:
+    - [Huber & Mellace (2015)](/Huber-Mellace-2015.pdf)
+    - [Kitagawa (2015)](/Kitagawa-2015.pdf)
+    - [Mourifié & Wan (2017)](/Mourifie-Wan-2017.pdf)
 3. Marginal Treatment Effects
   - [Heckman, Tobias & Vytlacil (2001)](/Heckman-Tobias-Vytlacil-2001.pdf)
   - [Angrist (2004)](/Angrist-2004.pdf)
