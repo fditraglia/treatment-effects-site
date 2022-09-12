@@ -15,6 +15,8 @@ This course assumes basic knowledge of causal inference along with basic familia
 
 ## Lectures
 Lectures will take place in the Skills Lab of the Manor Road Building from 9am-11am on September 12th-16th. Because two hours is a long time, we'll take a twenty minute break halfway through each lecture.
+
+0. Welcome and Course Outline: [slides](/slides-summer-school-welcome.pdf)
 1. Partial Identification: [slides](/slides-partial-ID.pdf), [lecture notes](/treatment-effects.pdf) Chapter 3.
   - [Manski (2003)](https://link.springer.com/book/10.1007/b97478) 
   - [Fan & Park (2010)](/Fan-Park-2010.pdf)
@@ -32,9 +34,7 @@ Lectures will take place in the Skills Lab of the Manor Road Building from 9am-1
   - [Hudgens & Halloran (2008)](/Hudgens-Halloran-2008.pdf)
   - [Manski (2013)](/Manski-2013.pdf)
   - [DiTraglia et al. (2022)](https://ditraglia.com/pdf/spillovers-paper.pdf) 
-5. Additional Topics TBA (Time Permitting) 
 
-Further details will follow soon.
 
 ## Practical Classes
 Because most students who are taking this course are also registered for Max Kasy's afternoon session on [Machine Learning](https://maxkasy.github.io/home/ML_Oxford_summerschool_2022/) we will hold a *joint practical session* for the two courses from 4:30pm-6pm each day. You are welcome to attend these joint sessions regardless of whether you are in fact registered for the Machine Learning course. A small number of students are registered for Treatment Effects in the morning session and something *other than* Machine Learning in the afternoon session. To prevent scheduling clashes for these students, we will hold alternative practical class sesssions covering *only* the Treatment Effects material from 11:30am-1pm on Monday, Tuesday, and Thursday. 
