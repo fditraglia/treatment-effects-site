@@ -24,7 +24,7 @@ Lectures will take place in the Skills Lab of the Manor Road Building from 9am-1
   - [Huber & Mellace (2015)](/Huber-Mellace-2015.pdf)
   - [Kitagawa (2015)](/Kitagawa-2015.pdf)
   - [Mourifié & Wan (2017)](/Mourifie-Wan-2017.pdf)
-- Marginal Treatment Effects
+- Marginal Treatment Effects: [slides part 1](/slides-MTE1.pdf)
   - [Heckman, Tobias & Vytlacil (2001)](/Heckman-Tobias-Vytlacil-2001.pdf)
   - [Angrist (2004)](/Angrist-2004.pdf)
   - [Cornelissen et al. (2016)](/Cornelissen-et-al-2016.pdf)
