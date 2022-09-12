@@ -16,21 +16,21 @@ This course assumes basic knowledge of causal inference along with basic familia
 ## Lectures
 Lectures will take place in the Skills Lab of the Manor Road Building from 9am-11am on September 12th-16th. Because two hours is a long time, we'll take a twenty minute break halfway through each lecture.
 
-0. Welcome and Course Outline: [slides](/slides-summer-school-welcome.pdf)
-1. Partial Identification: [slides](/slides-partial-ID.pdf), [lecture notes](/treatment-effects.pdf) Chapter 3.
+- Welcome and Course Outline: [slides](/slides-summer-school-welcome.pdf)
+- Partial Identification: [slides](/slides-partial-ID.pdf), [lecture notes](/treatment-effects.pdf) Chapter 3.
   - [Manski (2003)](https://link.springer.com/book/10.1007/b97478) 
   - [Fan & Park (2010)](/Fan-Park-2010.pdf)
-2. Testing the LATE Assumptions: [slides](/slides-testing-LATE.pdf), [lecture notes](/treatment-effects.pdf) Chapters 5-6
+- Testing the LATE Assumptions: [slides](/slides-testing-LATE.pdf), [lecture notes](/treatment-effects.pdf) Chapters 5-6
   - [Huber & Mellace (2015)](/Huber-Mellace-2015.pdf)
   - [Kitagawa (2015)](/Kitagawa-2015.pdf)
   - [Mourifié & Wan (2017)](/Mourifie-Wan-2017.pdf)
-3. Marginal Treatment Effects
+- Marginal Treatment Effects
   - [Heckman, Tobias & Vytlacil (2001)](/Heckman-Tobias-Vytlacil-2001.pdf)
   - [Angrist (2004)](/Angrist-2004.pdf)
   - [Cornelissen et al. (2016)](/Cornelissen-et-al-2016.pdf)
   - [Mogstad & Torgovitsky (2018)](/Mogstad-Torgovitsky-2018.pdf)
   - [Cornelissen et al. (2018)](/Cornelissen-et-al-2018.pdf)
-4. Spillovers 
+- Spillovers 
   - [Hudgens & Halloran (2008)](/Hudgens-Halloran-2008.pdf)
   - [Manski (2013)](/Manski-2013.pdf)
   - [DiTraglia et al. (2022)](https://ditraglia.com/pdf/spillovers-paper.pdf) 
