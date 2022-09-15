@@ -30,7 +30,7 @@ Lectures will take place in the Skills Lab of the Manor Road Building from 9am-1
   - [Cornelissen et al. (2016)](/Cornelissen-et-al-2016.pdf)
   - [Mogstad & Torgovitsky (2018)](/Mogstad-Torgovitsky-2018.pdf)
   - [Cornelissen et al. (2018)](/Cornelissen-et-al-2018.pdf)
-- Spillovers 
+- Spillovers: [slides](/slides-spillovers.pdf) 
   - [Hudgens & Halloran (2008)](/Hudgens-Halloran-2008.pdf)
   - [Manski (2013)](/Manski-2013.pdf)
   - [DiTraglia et al. (2022)](https://ditraglia.com/pdf/spillovers-paper.pdf) 
