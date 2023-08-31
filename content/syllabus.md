@@ -3,18 +3,21 @@ title = "Treatment Effects: Beyond the Basics"
 +++
 
 ## Overview
-This is the website for my [summer course](https://www.economics.ox.ac.uk/econometrics-pathway) which will take place at Oxford from 12-16 September 2022. If you're interested in attending, you can [apply here](https://www.economics.ox.ac.uk/econometrics-pathway). 
+This is the website for my [summer school course](https://www.economics.ox.ac.uk/september-summer-school) which will take place at Oxford from 11-15 September 2023. For more information about the summer school see the [course brochure](https://www.economics.ox.ac.uk/sites/default/files/economics/documents/media/oess_brochure.pdf). If you're interested in attending, you can [apply here](https://docs.google.com/forms/d/e/1FAIpQLSeYWv-l4H0myUNiSADRK3IdzV0YbqU6a_NAqM66kRY7ocjuqg/viewform). 
 
 
 ## Pre-reading
-This course assumes basic knowledge of causal inference along with basic familiarity with the R programming language. If you need to brush up on either of these pre-requisites, you may find the following resources helpful.
-- My short [video lectures](/videos) on treatment effects basics.
+This course assumes introductory-level knowledge of causal inference along with basic familiarity with the R programming language. If you need to brush up on either of these pre-requisites, you may find the following resources helpful.
+- My lecture slides on [selection-on-observables](https://ditraglia.com/erm/15-selection-on-observables.pdf), [regression discontinuity](https://ditraglia.com/erm/17-rd.pdf), [local average treatment effects](https://ditraglia.com/erm/18-LATE.pdf), and [difference-in-differences](https://ditraglia.com/erm/19-DiD.pdf).
+- My [short video lectures](/videos) on treatment effects basics.
 - Chapters 1-2, 4-5, and 7-8 of my [lecture notes](/treatment-effects.pdf) 
-- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/). See also [my notes](https://qyocwwdd4c.joplinusercontent.com/shares/OsJNRF8AGMOE9NGxpt7YK1) on this book.
-- Lessons 1-4 of [Empirical Research Methods](https://empirical-methods.com/)
+- My [crash course on R programming](https://ditraglia.com/erm/01-r-programming.html) and [solutions](https://ditraglia.com/erm/01-r-programming-solutions.html).
+- My [introduction to `dplyr`](https://ditraglia.com/erm/02-dplyr-intro.html) with [solutions](https://ditraglia.com/erm/02-dplyr-intro-solutions.html) and [introduction to `ggplot2`](https://ditraglia.com/erm/03-ggplot2-intro.html) with [solutions](https://ditraglia.com/erm/03-ggplot2-intro-solutions.html).
 
 ## Lectures
-Lectures will take place in the Skills Lab of the Manor Road Building from 9am-11am on September 12th-16th. Because two hours is a long time, we'll take a twenty minute break halfway through each lecture.
+Lectures will take place each morning from 9am-11am each morning from September 11th-16th in the [Manor Road Building](https://maps.apple.com/place?q=Manor%20Road%20Building&ll=51.75676%2C-1.2468&auid=1776925928559182676&lsp=9902&address=Manor%20Road%2C%20Oxford%2C%20OX1%203UQ%2C%20England). Because two hours is a long time, we'll take a twenty minute break halfway through each lecture.
+
+**Note: check back for the most up-to-date slides during the week of the course. There will be some minor updates from last year's version.**
 
 - Welcome and Course Outline: [slides](/slides-summer-school-welcome.pdf)
 - Partial Identification: [slides](/slides-partial-ID.pdf), [lecture notes](/treatment-effects.pdf) Chapter 3.
@@ -36,14 +39,14 @@ Lectures will take place in the Skills Lab of the Manor Road Building from 9am-1
   - [DiTraglia et al. (2022)](https://ditraglia.com/pdf/spillovers-paper.pdf) 
 
 
-## Practical Classes
-Because most students who are taking this course are also registered for Max Kasy's afternoon session on [Machine Learning](https://maxkasy.github.io/home/ML_Oxford_summerschool_2022/) we will hold a *joint practical session* for the two courses from 4:30pm-6pm each day. You are welcome to attend these joint sessions regardless of whether you are in fact registered for the Machine Learning course. A small number of students are registered for Treatment Effects in the morning session and something *other than* Machine Learning in the afternoon session. To prevent scheduling clashes for these students, we will hold alternative practical class sesssions covering *only* the Treatment Effects material from 11:30am-1pm on Monday, Tuesday, and Thursday. 
+## Applied Sessions 
+Applied sessions will take place each morning from 11:30am-12:30pm from September 11th-16th in the [Manor Road Building](https://maps.apple.com/place?q=Manor%20Road%20Building&ll=51.75676%2C-1.2468&auid=1776925928559182676&lsp=9902&address=Manor%20Road%2C%20Oxford%2C%20OX1%203UQ%2C%20England).
 
-1. Monday: [R Refresher Session](/lab-tidy-simulation.pdf)
-2. Tuesday: [Treatment Effects Session 1](/lab-testing-late.pdf)
-3. Wednesday: [Machine Learning Session 1](https://maxkasy.github.io/home/files/teaching/ML_Oxford_summerschool_2022/foundations_ml_ps3.pdf)
-4. Thursday: [Treatment Effects Session 2](/lab-normal-MTE.pdf)
-5. Friday: [Machine Learning Session 2](https://maxkasy.github.io/home/files/teaching/ML_Oxford_summerschool_2022/foundations_ml_ps5.pdf)
+1. Monday: [R Refresher]()
+2. Tuesday: [Simulation Basics in R]()
+3. Wednesday [Running a Simulation Study]()
+4. Wednesday: [Testing the LATE Assumptions]()
+5. Thursday: [Gaussian MTEs]()
 
 
 <!--Class meetings this term will take place over Zoom. Login details will be posted on the *Advanced Econometrics 1* canvas page on Monday, November 23rd. For each class meeting, I list the relevant chapters of the [lecture notes](/treatment-effects.pdf) along with papers for discussion. You should be able to access all of the assigned papers using your Oxford login. Let me know if you encounter any problems. 
