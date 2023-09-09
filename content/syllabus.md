@@ -17,7 +17,6 @@ This course assumes introductory-level knowledge of causal inference along with 
 ## Lectures
 Lectures will take place each morning from 9am-11am each morning from September 11th-16th in the [Manor Road Building](https://maps.apple.com/place?q=Manor%20Road%20Building&ll=51.75676%2C-1.2468&auid=1776925928559182676&lsp=9902&address=Manor%20Road%2C%20Oxford%2C%20OX1%203UQ%2C%20England). Because two hours is a long time, we'll take a twenty minute break halfway through each lecture.
 
-**Note: check back for the most up-to-date slides during the week of the course. There will be some minor updates from last year's version.**
 
 - Welcome and Course Outline: [slides](/slides-summer-school-welcome.pdf)
 - Partial Identification: [slides](/slides-partial-ID.pdf), [lecture notes](/treatment-effects.pdf) Chapter 3.
