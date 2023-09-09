@@ -42,11 +42,11 @@ Lectures will take place each morning from 9am-11am each morning from September 
 ## Applied Sessions 
 Applied sessions will take place each morning from 11:30am-12:30pm from September 11th-16th in the [Manor Road Building](https://maps.apple.com/place?q=Manor%20Road%20Building&ll=51.75676%2C-1.2468&auid=1776925928559182676&lsp=9902&address=Manor%20Road%2C%20Oxford%2C%20OX1%203UQ%2C%20England).
 
-1. Monday: [R Refresher](./01-r-refresher.html)
-2. Tuesday: [Simulation Basics in R](./02-simulation-basics.html)
-3. Wednesday [Running a Simulation Study](./03-simulation-study.html)
-4. Wednesday: [Testing the LATE Assumptions](./04-testing-LATE.html)
-5. Thursday: [Gaussian MTEs](./05-gaussian-MTE.html)
+1. Monday: [R Refresher](/01-r-refresher.html)
+2. Tuesday: [Simulation Basics in R](/02-simulation-basics.html)
+3. Wednesday [Running a Simulation Study](/03-simulation-study.html)
+4. Wednesday: [Testing the LATE Assumptions](/04-testing-LATE.html)
+5. Thursday: [Gaussian MTEs](/05-gaussian-MTE.html)
 
 
 <!--Class meetings this term will take place over Zoom. Login details will be posted on the *Advanced Econometrics 1* canvas page on Monday, November 23rd. For each class meeting, I list the relevant chapters of the [lecture notes](/treatment-effects.pdf) along with papers for discussion. You should be able to access all of the assigned papers using your Oxford login. Let me know if you encounter any problems. 
