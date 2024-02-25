@@ -2,7 +2,11 @@
 title = "Treatment Effects Videos"
 +++
 
-A series of short "pencasts" I made to accompany the lecture notes:
+Theatrical trailers for my Spring and Summer Courses
+* [Treatment Effects: The Basics](https://youtu.be/06CB0lqyUTk)
+* [Treatment Effects: Beyond the Basics](https://youtu.be/dQGGLNmKxgE)
+
+A series of short "pencasts" I made to accompany my lecture notes:
 
 * [The Potential Outcomes Framework](https://expl.ai/QHUAVRV)
 * [Conditional Independence](https://expl.ai/LXPVDDN)
