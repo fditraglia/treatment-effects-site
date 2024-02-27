@@ -11,8 +11,12 @@ enableRobotsTXT = true
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Syllabus"
-    url = "/syllabus"
+    name = "The Basics"
+    url = "/basics"
+    weight = 2
+  [[menu.main]]
+    name = "Beyond the Basics"
+    url = "/beyond"
     weight = 2
   [[menu.main]]
     name = "Lecture Notes"
@@ -21,8 +25,4 @@ enableRobotsTXT = true
   [[menu.main]]
     name = "Videos"
     url = "/videos"
-    weight = 2
-  [[menu.main]]
-    name = "References"
-    url = "/references"
     weight = 2
