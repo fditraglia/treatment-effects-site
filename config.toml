@@ -11,11 +11,11 @@ enableRobotsTXT = true
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "The Basics"
+    name = "Part 1: The Basics"
     url = "/basics"
     weight = 2
   [[menu.main]]
-    name = "Beyond the Basics"
+    name = "Part 2: Beyond the Basics"
     url = "/beyond"
     weight = 2
   [[menu.main]]
