@@ -12,19 +12,17 @@ This course assumes introductory-level knowledge of probability and statistics a
 - My [Crash Course on R programming](https://ditraglia.com/erm/01-r-programming.html) and [solutions](https://ditraglia.com/erm/01-r-programming-solutions.html).
 - My [introduction to `dplyr`](https://ditraglia.com/erm/02-dplyr-intro.html) with [solutions](https://ditraglia.com/erm/02-dplyr-intro-solutions.html) and [Introduction to `ggplot2`](https://ditraglia.com/erm/03-ggplot2-intro.html) with [solutions](https://ditraglia.com/erm/03-ggplot2-intro-solutions.html).
 
-## Lectures
-Slides will follow soon.
-1. Introduction / Selection-on-observables 
-2. DAGs and Bad Controls 
-3. Regression Discontinuity 
-4. Instrumental Variables and Local Average Treatment Effects 
+## Lecture Slides
+1. [Introduction](/01-introduction.pdf)
+2. [Selection on Observables, DAGs, and Bad Controls](/02-selection-on-observables.pdf)
+3. [Instrumental Variables and Local Average Treatment Effects](/03-IV-and-LATE.pdf)
+4. Regression Discontinuity 
 5. Difference-in-Differences 
 
 ## Practical Sessions 
-More details will follow soon.
-1. R Basics / Bertrand \& Mullainathan (2004) 
-2. Selection-on-observables / Dehejia \& Wahba (2002): NSW versus CPS 
-3. Regression Discontinuity / Carber \& Dobkin (2009) Minimum Legal Drinking Age 
-4. Instrumental Variables / TBC
-5. Difference-in-Differences / Kard \& Krueger (1994) 
+1. Introduction 
+2. Selection-on-observables DAGs 
+3. Instrumental Variables
+4. Regression Discontinuity 
+5. Difference-in-Differences 
 
