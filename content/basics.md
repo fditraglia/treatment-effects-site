@@ -20,7 +20,7 @@ This course assumes introductory-level knowledge of probability and statistics a
 5. Difference-in-Differences 
 
 ## Practical Sessions 
-1. Introduction 
+1. [Bias in the Labor Market](/basics-lab-01-lakisha.html)
 2. Selection-on-observables DAGs 
 3. Instrumental Variables
 4. Regression Discontinuity 
