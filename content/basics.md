@@ -16,8 +16,8 @@ This course assumes introductory-level knowledge of probability and statistics a
 1. [Introduction](/01-introduction.pdf)
 2. [Selection on Observables, DAGs, and Bad Controls](/02-selection-on-observables.pdf)
 3. [Instrumental Variables and Local Average Treatment Effects](/03-IV-and-LATE.pdf)
-4. Regression Discontinuity 
-5. Difference-in-Differences 
+4. [Regression Discontinuity](04-regression-discontinuity.pdf)
+5. [Difference-in-Differences](05-diff-in-diff.pdf)
 
 ## Practical Sessions 
 1. [Bias in the Labor Market](/basics-lab-01-lakisha.html)
