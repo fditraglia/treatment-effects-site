@@ -22,7 +22,7 @@ This course assumes introductory-level knowledge of probability and statistics a
 ## Practical Sessions 
 1. [Bias in the Labor Market](/basics-lab-01-lakisha.html)
 2. [Ukranian Elections, DAGs](/basics-lab-02-ukraine.html)
-3. Instrumental Variables
+3. [Instrumental Variables](/basics-lab-03-iv.html)
 4. Regression Discontinuity 
 5. Difference-in-Differences 
 
