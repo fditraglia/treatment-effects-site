@@ -3,19 +3,21 @@ title = "Treatment Effects: Beyond the Basics"
 +++
 
 ## Overview
-This is the website for my [summer school course](https://www.economics.ox.ac.uk/september-summer-school) which will take place at Oxford from 11-15 September 2023. For more information about the summer school see the [course brochure](https://www.economics.ox.ac.uk/sites/default/files/economics/documents/media/oess_brochure.pdf). If you're interested in attending, you can [apply here](https://docs.google.com/forms/d/e/1FAIpQLSeYWv-l4H0myUNiSADRK3IdzV0YbqU6a_NAqM66kRY7ocjuqg/viewform). 
+This is the website for my [summer school course](https://ouess.web.ox.ac.uk/september-summer-school) which will take place at Oxford in Sepember 2024. For more information about the summer school see the [course brochure](https://ouess.web.ox.ac.uk/sites/default/files/ouess/documents/media/september_summer_school_final_1.pdf). If you're interested in attending, you can [apply here](https://docs.google.com/forms/d/11FbbGxtKZuLp4DX4hgfKaHv5JDOmRrK9v9SiVHviqVY/viewform?edit_requested=true). 
+The materials listed below are from the 2023 version of the course.
+The 2024 version will be similar with a few small additions and changes.
 
 
 ## Pre-reading
 This course assumes introductory-level knowledge of causal inference along with basic familiarity with the R programming language. If you need to brush up on either of these pre-requisites, you may find the following resources helpful.
-- My lecture slides on [selection-on-observables](https://ditraglia.com/erm/15-selection-on-observables.pdf), [regression discontinuity](https://ditraglia.com/erm/17-rd.pdf), [local average treatment effects](https://ditraglia.com/erm/18-LATE.pdf), and [difference-in-differences](https://ditraglia.com/erm/19-DiD.pdf).
+- The slides for my short course course [Treatment Effects: The Basics](/basics/)
 - My [short video lectures](/videos) on treatment effects basics.
 - Chapters 1-2, 4-5, and 7-8 of my [lecture notes](/treatment-effects.pdf) 
 - My [crash course on R programming](https://ditraglia.com/erm/01-r-programming.html) and [solutions](https://ditraglia.com/erm/01-r-programming-solutions.html).
 - My [introduction to `dplyr`](https://ditraglia.com/erm/02-dplyr-intro.html) with [solutions](https://ditraglia.com/erm/02-dplyr-intro-solutions.html) and [introduction to `ggplot2`](https://ditraglia.com/erm/03-ggplot2-intro.html) with [solutions](https://ditraglia.com/erm/03-ggplot2-intro-solutions.html).
 
 ## Lectures
-Lectures will take place each morning from 9am-11am each morning from September 11th-16th in the [Manor Road Building](https://maps.apple.com/place?q=Manor%20Road%20Building&ll=51.75676%2C-1.2468&auid=1776925928559182676&lsp=9902&address=Manor%20Road%2C%20Oxford%2C%20OX1%203UQ%2C%20England). Because two hours is a long time, we'll take a twenty minute break halfway through each lecture.
+Lectures will take place each morning each morning in the [Manor Road Building](https://maps.apple.com/place?q=Manor%20Road%20Building&ll=51.75676%2C-1.2468&auid=1776925928559182676&lsp=9902&address=Manor%20Road%2C%20Oxford%2C%20OX1%203UQ%2C%20England). 
 
 
 - Welcome and Course Outline: [slides](/slides-summer-school-welcome.pdf)
@@ -39,7 +41,7 @@ Lectures will take place each morning from 9am-11am each morning from September 
 
 
 ## Applied Sessions 
-Applied sessions will take place each morning from 11:30am-12:30pm from September 11th-16th in the [Manor Road Building](https://maps.apple.com/place?q=Manor%20Road%20Building&ll=51.75676%2C-1.2468&auid=1776925928559182676&lsp=9902&address=Manor%20Road%2C%20Oxford%2C%20OX1%203UQ%2C%20England).
+Applied sessions will take place each morning in the [Manor Road Building](https://maps.apple.com/place?q=Manor%20Road%20Building&ll=51.75676%2C-1.2468&auid=1776925928559182676&lsp=9902&address=Manor%20Road%2C%20Oxford%2C%20OX1%203UQ%2C%20England).
 
 1. Monday: [R Refresher](/01-r-refresher.html)
 2. Tuesday: [Simulation Basics in R](/02-simulation-basics.html)
