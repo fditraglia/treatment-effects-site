@@ -4,8 +4,6 @@ title = "Treatment Effects: Beyond the Basics"
 
 ## Overview
 This is the website for my [summer school course](https://ouess.web.ox.ac.uk/september-summer-school) which will take place at Oxford in Sepember 2024. For more information about the summer school see the [course brochure](https://ouess.web.ox.ac.uk/sites/default/files/ouess/documents/media/september_summer_school_final_1.pdf). If you're interested in attending, you can [apply here](https://docs.google.com/forms/d/11FbbGxtKZuLp4DX4hgfKaHv5JDOmRrK9v9SiVHviqVY/viewform?edit_requested=true). 
-The materials listed below are from the 2023 version of the course.
-The 2024 version will be similar with a few small additions and changes.
 
 
 ## Pre-reading
@@ -28,7 +26,7 @@ Lectures will take place each morning each morning in the [Manor Road Building](
   - [Huber & Mellace (2015)](/Huber-Mellace-2015.pdf)
   - [Kitagawa (2015)](/Kitagawa-2015.pdf)
   - [Mourifié & Wan (2017)](/Mourifie-Wan-2017.pdf)
-- Marginal Treatment Effects: [slides part 1](/slides-MTE1.pdf), [slides part 2](/slides-MTE2.pdf)
+- Marginal Treatment Effects: [slides part 1](/slides-MTE1.pdf), [slides part 2](/slides-MTE2.pdf), [lecture notes](/treatment-effects.pdf) Chapter 7
   - [Heckman, Tobias & Vytlacil (2001)](/Heckman-Tobias-Vytlacil-2001.pdf)
   - [Angrist (2004)](/Angrist-2004.pdf)
   - [Cornelissen et al. (2016)](/Cornelissen-et-al-2016.pdf)
