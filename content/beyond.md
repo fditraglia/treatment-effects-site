@@ -3,7 +3,9 @@ title = "Treatment Effects: Beyond the Basics"
 +++
 
 ## Overview
-This is the website for my [summer school course](https://ouess.web.ox.ac.uk/september-summer-school) which will take place at Oxford in Sepember 2024. For more information about the summer school see the [course brochure](https://ouess.web.ox.ac.uk/sites/default/files/ouess/documents/media/september_summer_school_final_1.pdf). If you're interested in attending, you can [apply here](https://docs.google.com/forms/d/11FbbGxtKZuLp4DX4hgfKaHv5JDOmRrK9v9SiVHviqVY/viewform?edit_requested=true). 
+This is the website for my [summer school course](https://ouess.web.ox.ac.uk/september-summer-school) which takes place in Oxford each September.
+
+<!--For more information about the summer school see the [course brochure](https://ouess.web.ox.ac.uk/sites/default/files/ouess/documents/media/september_summer_school_final_1.pdf). If you're interested in attending, you can [apply here](https://docs.google.com/forms/d/11FbbGxtKZuLp4DX4hgfKaHv5JDOmRrK9v9SiVHviqVY/viewform?edit_requested=true).-->
 
 
 ## Pre-reading
