@@ -10,14 +10,14 @@ This is the website for my [summer school course](https://ouess.web.ox.ac.uk/sep
 
 ## Pre-reading
 This course assumes introductory-level knowledge of causal inference along with basic familiarity with the R programming language. If you need to brush up on either of these pre-requisites, you may find the following resources helpful.
-- The slides for my short course course [Treatment Effects: The Basics](/basics/)
+- The slides for my short course [Treatment Effects: The Basics](/basics/)
 - My [short video lectures](/videos) on treatment effects basics.
-- Chapters 1-2, 4-5, and 7-8 of my [lecture notes](/treatment-effects.pdf) 
+- Chapters 1-2, 4-5, and 8-9 of my [lecture notes](/treatment-effects.pdf) 
 - My [crash course on R programming](https://ditraglia.com/erm/01-r-programming.html) and [solutions](https://ditraglia.com/erm/01-r-programming-solutions.html).
 - My [introduction to `dplyr`](https://ditraglia.com/erm/02-dplyr-intro.html) with [solutions](https://ditraglia.com/erm/02-dplyr-intro-solutions.html) and [introduction to `ggplot2`](https://ditraglia.com/erm/03-ggplot2-intro.html) with [solutions](https://ditraglia.com/erm/03-ggplot2-intro-solutions.html).
 
 ## Lectures
-Lectures will take place each morning each morning in the [Manor Road Building](https://maps.apple.com/place?q=Manor%20Road%20Building&ll=51.75676%2C-1.2468&auid=1776925928559182676&lsp=9902&address=Manor%20Road%2C%20Oxford%2C%20OX1%203UQ%2C%20England). 
+Lectures will take place each morning in the [Manor Road Building](https://maps.apple.com/place?q=Manor%20Road%20Building&ll=51.75676%2C-1.2468&auid=1776925928559182676&lsp=9902&address=Manor%20Road%2C%20Oxford%2C%20OX1%203UQ%2C%20England). 
 
 
 <!--- Welcome and Course Outline: [slides](/slides-summer-school-welcome.pdf)-->
